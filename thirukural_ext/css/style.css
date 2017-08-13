@@ -1,0 +1,15 @@
+body {
+  position: absolute;
+  width: 60%;
+  top: 25%;
+  left: 0;
+  right: 0;
+  margin: auto;
+  background-image: url("thiru_bg.jpg")
+}
+
+p {
+  font-size:30px;
+  color:#383430;
+}
+
