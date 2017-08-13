@@ -3,7 +3,7 @@
 
 #STEPS
 # download & extract into your local. 
-# Inside that you will have one .crx file just drag&drop on your chrome browser one popup will come. 
+# Inside that you will have one .crx file just drag&drop on your chrome browser page url: chrome://extensions/one popup will come. 
 # Then press "add extension" .
 # Refresh your browser 
 # open new tab
