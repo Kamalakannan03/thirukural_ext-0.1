@@ -1,15 +1,33 @@
 body {
   position: absolute;
-  width: 60%;
   top: 25%;
   left: 0;
   right: 0;
   margin: auto;
   background-image: url("thiru_bg.jpg")
 }
-
-p {
-  font-size:30px;
-  color:#383430;
+.container{
+	width :80%;
+	margin-left :10%;
+}
+.kural {
+    width: 100%;
+    font-size: 26px;
+    color: #383430;
 }
 
+.author{
+	width: 85%;
+    font-size: 24px;
+    color: #383430;
+	
+}
+
+.meaning{
+	opacity: 0.8;
+    background-color: #5a4b38;
+    font-size: 16px;
+    color: #ffffff;
+	margin-top: 15%;
+	
+}
