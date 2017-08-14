@@ -1,5 +1,17 @@
 # thirukural_ext-0.1
-# Upcoming Release: As of now this will generate only random kural. Planning to add meanings for that in upcoming releases. :) 
+# this extension will generate random thirukural with their respective meaning 
+
+# Release 1: generate only random kural. 
+# Release 2: generate random kural with their respective meaning
+
+
+# known bugs:
+# fadeIn not working properly for author and meaning
+# css bugs in kural
+
+# upcoming releases :
+# planning to give english explanation for global users. 
+# dynamic language changing options.
 
 #STEPS
 # download & extract into your local. 
